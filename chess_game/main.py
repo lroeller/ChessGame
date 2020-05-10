@@ -1,7 +1,8 @@
+from chess_game.game import Game
 
 
 def main():
-    pass
+    Game().play_game()
 
 
 if __name__ == "__main__":
