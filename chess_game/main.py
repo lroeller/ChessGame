@@ -1,4 +1,5 @@
 from chess_game.game import Game
+import tensorflow
 
 
 def main():
